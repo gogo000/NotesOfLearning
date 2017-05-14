@@ -1,4 +1,4 @@
-# NotesOfLearning
+# LearningNotes
 个人学习笔记
 
 这是个人的学习笔记，所有文章都以[Wiki](https://github.com/william-hyx/NotesOfLearning/wiki)的形式呈现。
